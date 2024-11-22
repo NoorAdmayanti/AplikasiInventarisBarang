@@ -1,5 +1,5 @@
 # AplikasiInventarisBarang
- UTS - Noor Admayanti - 2210010295
+ UTS - Noor Admayanti - 2210010147
 
 Aplikasi Inventaris Barang adalah sebuah aplikasi berbasis Java Swing yang digunakan untuk mengelola data inventaris barang. Aplikasi ini menyediakan fitur untuk menambahkan, mengubah, menghapus, menampilkan data, serta mengekspor dan mengimpor data dalam format CSV.
 
